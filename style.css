@@ -1,0 +1,84 @@
+
+footer {
+  text-align: center;
+  padding: 8px;
+  background-color: palevioletred;
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+li {
+    display: inline;
+} 
+header {
+  text-align: center;
+  padding: 8px;
+  background-color: white;
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 
+  h1 {
+    color: rgb(218, 77, 101);
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 
+ img{
+    float:right;
+ }
+h2 {
+    color: black;
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: left;
+}
+h3 {
+   color: white; 
+   text-align: left;
+  padding: 8px;
+  background-color: palevioletred;
+}
+button {
+    color: white;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: blueviolet;
+    padding: 8px;
+    margin-top: 3%;
+}
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}  
+
+/* Useful Resources Section */
+.column{
+  width:200px;
+  text-align:center;
+  background-color: transparent;
+  border: 1px black;
+  margin-right: 10px;
+  margin-bottom: 1px;
+  padding-top: 50px;
+  padding-right:15px;
+  padding-bottom: 50px;
+  padding-left: 10px;
+  border-style: solid;
+  border-radius: 10px;
+}
+/*TO DO: Make the 3 boxes sit in the centre of an enlarged page*/
+
+.row {
+  display: flex;
+  margin-right:auto;
+  width: 50%;
+}
+
+p {
+  padding-left: 10px;
+}
+
+/*Testimonials*/
+table, th, td{
+  border: 1px solid transparent;
+  margin-left: auto;
+  margin-right: auto;
+}
+
