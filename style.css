@@ -82,3 +82,35 @@ table, th, td{
   margin-right: auto;
 }
 
+/*Katrina Has added the below as extra css for Techii Library Page*/
+.topnav{margin: 0;
+    padding:0;
+    text-align:right;
+    font-weight:bold;}
+.topnav a{margin-right: 20px;}
+    
+input{margin-top: -15px;}
+
+a {color: black;}
+li {list-style: none;
+   }
+video {margin-inline-start: 19px;
+        margin-inline-end: 19px;
+        margin-right: 22px;
+     }
+h4 {display: inline;
+              margin-left: 190px;
+              margin-right:190px;
+              text-align: center;
+    }
+ul {
+    float:left;
+    margin-left: 250px;
+    margin-right: 200px;
+    align-items: center;}
+    
+form ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
